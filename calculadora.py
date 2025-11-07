@@ -6,7 +6,7 @@ def aplicar_reglas_compra(precio):
     """
     
     # Ambos desarrolladores DEBEN MODIFICAR la línea inmediatamente debajo de este comentario.
-    precio = precio
+    precio = precio * 1.15
     
     return precio
 
